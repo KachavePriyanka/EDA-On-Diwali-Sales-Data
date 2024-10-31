@@ -1,4 +1,5 @@
 A project focused on exploratory data analysis on diwali sales data
+
 •Performed data cleaning and manipulation
 •Performed exploratory data analysis(EDA) using pandas, matplotlib and seaborn libraries
 •Improved customer experience by identifying potential customers across different states, occupation, 
